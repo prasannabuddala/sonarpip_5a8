@@ -13,7 +13,4 @@ public class App
         a=+15;
         System.out.println(a);
     }
-    public static void main(String[] args) {
-    	
-    }
 }
